@@ -1,6 +1,5 @@
 .wrapper {
-    background: rgb(175, 175, 175);
-    background-image: url('/src/images/background-brown-carpentry-326311.jpg');
+    background: rgba(248, 244, 25, 0.925);
     height: 100%;
     display: flex;
     flex-flow: row wrap;
