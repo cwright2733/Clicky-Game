@@ -3,13 +3,14 @@ nav {
     font-size: 3rem;
     color: #fff;
     margin-bottom: 50px;
-    background-color: rgb(56, 56, 56);
+    background-color: rgb(18, 58, 2);
     height: auto;
     font-family: 'Bungee', cursive;
   }
   
   a {
-    color: #fed420;
+    color: #fe2f20;
+    font-size: 25px;
   }
   
   a:hover {
